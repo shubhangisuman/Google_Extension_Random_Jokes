@@ -1,1 +1,1 @@
-# Google_Extension_Random_Jokes-
+# Google Extension to produce random jokes.
