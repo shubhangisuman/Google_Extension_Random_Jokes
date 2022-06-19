@@ -1,0 +1,19 @@
+.textContainer {
+    /* height: 100px; */
+    height: auto;
+    width: 300px;
+    justify-content: center;
+}
+
+.innerContainer {
+    border: 1px solid;
+    border-color: black;
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+}
+
+.textStyle {
+    color: blue;
+    padding: 10px;
+}
